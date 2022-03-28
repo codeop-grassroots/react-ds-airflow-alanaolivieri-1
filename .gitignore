@@ -1,0 +1,37 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# pyenv
+.python-version
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+nbs/.ipynb_checkpoints
+nbs/data/
+
+# OSX files
+.DS_Store
+
+# jetbrains ide stuff
+*.iml
+.idea/
+
+# vscode ide stuff
+*.code-workspace
+.history
+.vscode
+
+# vim stuff
+*.swp
+
